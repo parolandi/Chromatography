@@ -1,5 +1,5 @@
 h5py==2.7.0
-numpy==1.13.0
+numpy==1.22.0
 pandas==0.20.2
 Pyomo==5.2
 PyYAML==3.12
